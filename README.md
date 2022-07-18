@@ -23,7 +23,11 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)](#profile)
 
-<br>
+## 🔭 I'm currently working on
+
+- Uploading local repos (keycat2)
+- Optimizing website
+- Uploading finished android applications
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
