@@ -28,9 +28,10 @@
 
 ## 🔭 I'm currently working on
 
-- Uploading local repos (keycat2)
-- Optimizing website
-- Uploading finished android applications
+- Upload local repos (keycat2)
+- Optimize website
+- Upload finished android applications
+- Upload locally stored Renders, Animations, Gifs to Youtube and DeviantArt
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
