@@ -3,10 +3,10 @@
 - 👋 Hi, I’m @MintArchit
 
 ## Social Links
-[Mintarchit.com](https://mintarchit.com)<br>
-[Youtube    / MintArchit](https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA)<br>
-[DeviantArt / MintArchit](https://www.deviantart.com/mintarchit)<br>
-[PlayStore  / MintArchit](https://play.google.com/store/apps/developer?id=MintArchit)<br>
+website:      [Mintarchit.com](https://mintarchit.com)<br>
+videos:       [Youtube    / MintArchit](https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA)<br>
+Img:          [DeviantArt / MintArchit](https://www.deviantart.com/mintarchit)<br>
+Android Apps: [PlayStore  / MintArchit](https://play.google.com/store/apps/developer?id=MintArchit)<br>
 
 ## 💼 Technical Skills
 
@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ](#profile)
 
-## 🔭 I'm currently working on
+## I'm currently working on
 
 - Upload local repos (keycat2)
 - Optimize website
