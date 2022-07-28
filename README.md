@@ -14,7 +14,6 @@ Android Apps: [PlayStore  / MintArchit](https://play.google.com/store/apps/devel
 [
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-JavaScriptObjectNotation-informational?style=flat&logo=JavaScriptObjectNotation&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=181717)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
