@@ -28,23 +28,24 @@ Android Apps: [PlayStore  / MintArchit](https://play.google.com/store/apps/devel
 
 ## Repos I'm currently working on 
 
-public
+### public
 - Firefox extensions:
   - ff-themes (JSON, APNG)
   - ff-theme-switcher(JS, JSON)
   - mintarchit, github profile (html,md)
 
-local (private)
+### private (local)
 - Blender Extension
-  - ComputerVision, PoseEstimation (Python)
-- MintArchit.com (HTML, CSS, JS, Bootstrap, Threejs(Easter egg))
+  - OpenCV ComputerVision, PoseEstimation (Python)
+- MintArchit.com (HTML, CSS, JS, Bootstrap, Threejs [Easter egg])
 - Keycat2 (Linux, Python, DB)
 - TicTacToe (Android, Java)
-- YT-autocompile(Python, YT-API)
+- YT-Autocompile (Python, YT-API)
+- Jarvis AI (Python, STT & TTS)
 
 ## Other stuff i do
 
-3D Animation/Artwork (Blender), Symbols/Icons (SVG, PNG, JPG), 3D printing
+3D Animation/Artwork (Blender), Symbols/Icons (SVG, PNG, JPG), 3D Printing
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
