@@ -26,12 +26,23 @@ Android Apps: [PlayStore  / MintArchit](https://play.google.com/store/apps/devel
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ](#profile)
 
-## I'm currently working on
+## Repos I'm currently working on 
 
-- Upload local repos (keycat2)
-- Optimize website
-- Upload finished android applications
-- Upload locally stored Renders, Animations, Gifs to Youtube and DeviantArt
+local (private)
+- Blender Extension
+  - ComputerVision, PoseEstimation (Python)
+- MintArchit.com (HTML, CSS, JS, Bootstrap, Threejs(Easter egg))
+- Keycat2 (Linux, Python, DB)
+- TicTacToe (Android, Java)
+- YT-autocompile(Python, YT-API)
+
+remote
+- Firefox extensions:
+  - ff-themes (JSON, APNG)
+  - ff-theme-switcher(JS, JSON)
+
+Other stuff i do
+3D Animation/Artwork (Blender), Symbols/Icons (SVG, PNG, JPG), 3D printing
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
