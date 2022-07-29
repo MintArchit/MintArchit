@@ -36,10 +36,11 @@ local (private)
 - TicTacToe (Android, Java)
 - YT-autocompile(Python, YT-API)
 
-remote
+public
 - Firefox extensions:
   - ff-themes (JSON, APNG)
   - ff-theme-switcher(JS, JSON)
+  - mintarchit, github profile (html,md)
 
 Other stuff i do
 3D Animation/Artwork (Blender), Symbols/Icons (SVG, PNG, JPG), 3D printing
