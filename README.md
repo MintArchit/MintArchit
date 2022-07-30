@@ -31,8 +31,8 @@ Android Apps: [PlayStore  / MintArchit](https://play.google.com/store/apps/devel
 ### public
 - Firefox extensions:
   - ff-themes (JSON, APNG)
-  - ff-theme-switcher(JS, JSON)
-  - mintarchit, github profile (html,md)
+  - ff-theme-switcher (JS, JSON)
+  - mintarchit, github profile (HTML, MD)
 
 ### private (local)
 - Blender Extension
