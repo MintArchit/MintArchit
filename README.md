@@ -3,6 +3,15 @@
 - 👋 Hi, I’m @MintArchit
 
 ## Social Links
+
+<svg style="color: green; width: 96px; height: 96px" viewBox="0 0 100 100" preserveAspectRatio="none">
+  <defs>
+    <mask id="fillMask" x="0" y="0" width="100" height="100">
+      <image xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" x="0" y="0" width="100" height="100" src="ppngfallback.png" />
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="100" height="100" style="stroke: none; fill: currentColor" mask="url(&quot;#fillMask&quot;)" />
+</svg>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" style="fill:red;">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" style="filter: invert(23%) sepia(78%) saturate(7470%) hue-rotate(355deg) brightness(87%) contrast(135%);">
 website:      [Mintarchit.com](https://mintarchit.com)<br>
