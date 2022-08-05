@@ -5,12 +5,12 @@
 ## Social Links
 
 <svg>
-    <image class="change-my-color" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" width="96" height="96" src="ppngfallback.png" />
+    <image class="change-my-color" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" width="96" height="96" />
 </svg>
 <svg style="color: green; width: 96px; height: 96px" viewBox="0 0 100 100" preserveAspectRatio="none">
   <defs>
     <mask id="fillMask" x="0" y="0" width="100" height="100">
-      <image xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" x="0" y="0" width="100" height="100" src="ppngfallback.png" />
+      <image xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" x="0" y="0" width="100" height="100"/>
     </mask>
   </defs>
   <rect x="0" y="0" width="100" height="100" style="stroke: none; fill: currentColor" mask="url(&quot;#fillMask&quot;)" />
