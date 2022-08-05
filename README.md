@@ -4,6 +4,9 @@
 
 ## Social Links
 
+<svg>
+    <image class="change-my-color" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" width="96" height="96" src="ppngfallback.png" />
+</svg>
 <svg style="color: green; width: 96px; height: 96px" viewBox="0 0 100 100" preserveAspectRatio="none">
   <defs>
     <mask id="fillMask" x="0" y="0" width="100" height="100">
