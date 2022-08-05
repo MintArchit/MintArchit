@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @MintArchit
 
 ## Social Links
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" style="fill:red">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" style="fill:red;">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" style="filter: invert(23%) sepia(78%) saturate(7470%) hue-rotate(355deg) brightness(87%) contrast(135%);">
 website:      [Mintarchit.com](https://mintarchit.com)<br>
 videos:       [Youtube    / MintArchit](https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA)<br>
 Img:          [DeviantArt / MintArchit](https://www.deviantart.com/mintarchit)<br>
