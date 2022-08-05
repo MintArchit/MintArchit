@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @MintArchit
 
 ## Social Links
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
 website:      [Mintarchit.com](https://mintarchit.com)<br>
 videos:       [Youtube    / MintArchit](https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA)<br>
 Img:          [DeviantArt / MintArchit](https://www.deviantart.com/mintarchit)<br>
