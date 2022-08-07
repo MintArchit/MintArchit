@@ -3,13 +3,13 @@
 
 <span align="left">
 <a href="">
-<img width="130" height="32" alt="MintArchit" title="MintArchit" src="https://img.shields.io/badge/MintArchit-darkgrey?style=for-the-badge&logo=" /></a>
+<img alt="MintArchit" title="MintArchit" src="https://img.shields.io/badge/MintArchit-darkgrey?style=for-the-badge&logo=" /></a>
 <a href="https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA">
-<img width="130" height="32" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
+<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
 <a href="https://www.deviantart.com/mintarchit">
-<img width="130" height="32" alt="DeviantArt" title="DeviantArt" src="https://img.shields.io/badge/DeviantArt-black?style=for-the-badge&logo=deviantart&logoColor=05CC47" /></a>
+<img alt="DeviantArt" title="DeviantArt" src="https://img.shields.io/badge/DeviantArt-black?style=for-the-badge&logo=deviantart&logoColor=05CC47" /></a>
 <a href="https://play.google.com/store/apps/developer?id=MintArchit">
-<img width="130" height="32" alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-white?style=for-the-badge&logo=googleplay&logoColor=black" /></a>
+<img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-white?style=for-the-badge&logo=googleplay&logoColor=black" /></a>
 </span>
 
 ## 💼 Technical Skills
