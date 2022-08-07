@@ -3,8 +3,7 @@
 
 ## Social Links
 <span align="left">
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/
-YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
 </span>
 
 https://img.shields.io/badge/
