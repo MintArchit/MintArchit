@@ -5,11 +5,11 @@
 <a href="">
 <img alt="MintArchit" title="MintArchit" src="https://img.shields.io/badge/MintArchit-darkgrey?style=for-the-badge&logo=" /></a>
 <a href="https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA">
-<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
+<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.deviantart.com/mintarchit">
 <img alt="DeviantArt" title="DeviantArt" src="https://img.shields.io/badge/DeviantArt-black?style=for-the-badge&logo=deviantart&logoColor=05CC47" /></a>
 <a href="https://play.google.com/store/apps/developer?id=MintArchit">
-<img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-white?style=for-the-badge&logo=googleplay&logoColor=black" /></a>
+<img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </span>
 
 ## 💼 Technical Skills
