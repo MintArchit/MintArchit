@@ -11,8 +11,6 @@
 </span>
 
 website:      [Mintarchit.com](https://mintarchit.com)<br>
-Img:          [DeviantArt / MintArchit]()<br>
-Android Apps: [PlayStore  / MintArchit]()<br>
 
 ## 💼 Technical Skills
 
