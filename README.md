@@ -3,14 +3,11 @@
 
 ## Social Links
 <span align="left">
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
+<a href="https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA"><img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
 </span>
 
-https://img.shields.io/badge/
-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&color=white
-
 website:      [Mintarchit.com](https://mintarchit.com)<br>
-videos:       [Youtube    / MintArchit](https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA)<br>
+videos:       [Youtube    / MintArchit]()<br>
 Img:          [DeviantArt / MintArchit](https://www.deviantart.com/mintarchit)<br>
 Android Apps: [PlayStore  / MintArchit](https://play.google.com/store/apps/developer?id=MintArchit)<br>
 
