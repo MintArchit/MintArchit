@@ -32,7 +32,7 @@ website:      [Mintarchit.com](https://mintarchit.com)<br>
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-](#profile)
+](#)
 
 ## Repos I'm currently working on 
 
