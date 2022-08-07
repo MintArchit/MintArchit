@@ -5,7 +5,7 @@
 ## Social Links
 
 
-<a href="#HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
 
 
 website:      [Mintarchit.com](https://mintarchit.com)<br>
