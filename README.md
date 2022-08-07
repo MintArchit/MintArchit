@@ -3,7 +3,7 @@
 
 <span align="left">
 <a href="">
-<img alt="MintArchit" title="MintArchit" src="https://img.shields.io/badge/MintArchit-darkgrey?style=for-the-badge&logo=https://github.com/MintArchit/MintArchit/blob/assets/211104%20Favicon.svg" /></a>
+<img alt="MintArchit" title="MintArchit" src="https://img.shields.io/badge/MintArchit-darkgrey?style=for-the-badge&logo=data:https://github.com/MintArchit/MintArchit/blob/assets/211104%20Favicon.svg" /></a>
 <a href="https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA">
 <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.deviantart.com/mintarchit">
