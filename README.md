@@ -3,10 +3,10 @@
 
 ## Social Links
 <span align="left">
-<a href="https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
-<a href="https://www.deviantart.com/mintarchit">
+<a target="blank" href="https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" /></a>
+<a target="blank" href="https://www.deviantart.com/mintarchit">
 <img alt="DeviantArt" title="DeviantArt" src="https://img.shields.io/badge/DeviantArt-black?style=for-the-badge&logo=deviantart&logoColor=05CC47" /></a>
-<a href="https://play.google.com/store/apps/developer?id=MintArchit">
+<a target="blank" href="https://play.google.com/store/apps/developer?id=MintArchit">
 <img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-white?style=for-the-badge&logo=googleplay&logoColor=black" /></a>
 </span>
 
@@ -15,8 +15,8 @@ website:      [Mintarchit.com](https://mintarchit.com)<br>
 ## 💼 Technical Skills
 
 <span align="left">
-<a href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS3"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+<a target="blank" href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+<a target="blank" href="https://en.wikipedia.org/wiki/CSS3"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 </span>
 
 [
