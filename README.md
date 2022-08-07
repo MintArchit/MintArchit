@@ -8,8 +8,8 @@
 <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.deviantart.com/mintarchit">
 <img alt="DeviantArt" title="DeviantArt" src="https://img.shields.io/badge/DeviantArt-black?style=for-the-badge&logo=deviantart&logoColor=05CC47" /></a>
-<a href="https://play.google.com/store/apps/developer?id=MintArchit">
-<img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+<!-- <a href="https://play.google.com/store/apps/developer?id=MintArchit"> -->
+<!-- <img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a> -->
 </span>
 
 ## 💼 Technical Skills
