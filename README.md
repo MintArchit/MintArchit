@@ -15,8 +15,10 @@
 ## 💼 Technical Skills
 
 <span align="left">
-<a target="blank" href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-<a target="blank" href="https://en.wikipedia.org/wiki/CSS3"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+<a href="#">
+<img alt="Html5" title="Htlm5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS3" title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</a>
 </span>
 
 [
