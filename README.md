@@ -5,7 +5,7 @@
 ## Social Links
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+[![](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />)](#HTML5)
 
 
 website:      [Mintarchit.com](https://mintarchit.com)<br>
