@@ -7,6 +7,7 @@
 
 <a href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
 
+<a href="https://en.wikipedia.org/wiki/CSS3"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 
 website:      [Mintarchit.com](https://mintarchit.com)<br>
 videos:       [Youtube    / MintArchit](https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA)<br>
