@@ -1,14 +1,14 @@
 
-# Profile
-- 👋 Hi, I’m @MintArchit
+<h1> 👋 Hi, I’m @MintArchit </h1>
 
 ## Social Links
-
 <span align="left">
-<a href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS3"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://img.shields.io/badge/
+YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&color=white" /></a>
 </span>
 
+https://img.shields.io/badge/
+YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&color=white
 
 website:      [Mintarchit.com](https://mintarchit.com)<br>
 videos:       [Youtube    / MintArchit](https://www.youtube.com/channel/UC3kiIQ_Hv_mfGmGGPrVYTDA)<br>
@@ -17,6 +17,10 @@ Android Apps: [PlayStore  / MintArchit](https://play.google.com/store/apps/devel
 
 ## 💼 Technical Skills
 
+<span align="left">
+<a href="https://en.wikipedia.org/wiki/HTML5"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS3"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+</span>
 
 [
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
