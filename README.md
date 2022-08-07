@@ -23,22 +23,25 @@
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </a>
 </span>
 
 [
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=181717)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=003B57)
-![](https://img.shields.io/badge/Code-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=181717)
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&color=003B57)
+![](https://img.shields.io/badge/Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
 
 <p>Tools</p>
 </br>
 
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 ](#)
 
 ## Repos I'm currently working on 
