@@ -15,8 +15,7 @@
 ## 💼 Technical Skills
 
 <span align="left">
-<p>Languages</p>
-<a href="#">
+<p>Languages<a href="#">
 <img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" />
 <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" />
 <!-- icon has to be manually added like favicon <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&color=003B57" /> -->
@@ -26,14 +25,14 @@
 <img src="https://img.shields.io/badge/MarkDown-informational?style=flat-square&logo=markdown&color=003B57" />
 <img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" />
 <img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" />
-</a><p>DB</p><a href="#">
+</a></p><p>DB<a href="#">
 <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&color=003B57" />
 <img src="https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite&color=003B57" />
-</a><p>Tools</p><a href="#">
+</a><p>Tools<a href="#">
 <img src="https://img.shields.io/badge/Netlify-informational?style=flat-square&logo=netlify&color=00C7B7" />
 <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&color=F05032" />
 <img src="https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=GitHub&color=181717" />
-</a>
+</a></p>
 </span>
 
 ## Repos I'm currently working on 
@@ -59,7 +58,7 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
-v2.6
+v2.7
 
 <!---
 - 👀 I’m interested in ...
