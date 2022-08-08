@@ -26,16 +26,12 @@
 <img src="https://img.shields.io/badge/MarkDown-informational?style=flat-square&logo=markdown&color=003B57" />
 <img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" />
 <img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" />
+<p>DB</p>
+<img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&color=003B57" />
+<img src="https://img.shields.io/badge/SQLLite-informational?style=flat-square&logo=sqllite&color=003B57" />
+
 </a>
 </span>
-
-[
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=181717)
-![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![]()
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&color=003B57)
-![](https://img.shields.io/badge/Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
-](#)
 
 <p>Tools</p>
 </br>
@@ -71,7 +67,7 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
-v2.4
+v2.5
 
 <!---
 - 👀 I’m interested in ...
