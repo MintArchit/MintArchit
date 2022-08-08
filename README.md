@@ -15,7 +15,7 @@
 ## 💼 Technical Skills
 
 <span align="left">
-<p>Languages<a href="#">
+<p><h4>Languages</h4><a href="#">
 <img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" />
 <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" />
 <!-- <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&color=003B57" /> -->
@@ -27,12 +27,12 @@
 <img src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" />
 <!-- <img src="https://img.shields.io/badge/SQL-informational?style=flat-square&logo=sql&color=003B57" /> -->
 <img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" />
-</a></p><p>file_cabinet Databases and cloud hosting<a href="#">
+</a></p><p><h4>DataBases & Cloud Hosting</h4><a href="#">
 <img src="https://img.shields.io/badge/FireBase-informational?style=flat-square&logo=firebase&color=003B57" />
 <img src="https://img.shields.io/badge/Netlify-informational?style=flat-square&logo=netlify&color=003B57" />
 <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&color=003B57" />
 <img src="https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite&color=003B57" />
-</a><p>Tools<a href="#">
+</a><p><h4>Tools</h4><a href="#">
 <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&color=F05032" />
 </a></p>
 </span>
