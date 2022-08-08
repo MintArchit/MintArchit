@@ -17,15 +17,15 @@
 <span align="left">
 <p>Languages</p>
 <a href="#">
-<img alt="Html5" title="Htlm5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS3" title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="25" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&color=003B57" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img alt="Html5" title="Htlm5" height="25" src="https://img.shields.io/badge/Html-informational?style=flat-square&logo=html&color=003B57" />
+<img alt="CSS3" title="CSS3" height="25" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css&color=003B57" />
+<img height="25" src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&color=003B57" />
+<img height="25" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&color=003B57" />
+<img height="25" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=003B57" />
+<img height="25" src="https://img.shields.io/badge/Kotlin-informational?style=flat-square&logo=kotlin&color=003B57" />
+<img height="25" src="https://img.shields.io/badge/MarkDown-informational?style=flat-square&logo=markdown&color=003B57" />
+<img height="25" src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" />
+<img height="25" src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" />
 </a>
 </span>
 
@@ -71,7 +71,7 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
-v2.0
+v2.1
 
 <!---
 - 👀 I’m interested in ...
