@@ -21,7 +21,7 @@
 <img alt="CSS3" title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="25" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&color=003B57" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -32,7 +32,7 @@
 [
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&color=181717)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=003B57)
+![]()
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&color=003B57)
 ![](https://img.shields.io/badge/Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
 ](#)
@@ -70,6 +70,8 @@
 3D Animation/Artwork (Blender), Symbols/Icons (SVG, PNG, JPG), 3D Printing
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
+
+v2.0
 
 <!---
 - 👀 I’m interested in ...
