@@ -17,8 +17,8 @@
 <span align="left">
 <p>Languages</p>
 <a href="#">
-<img alt="Html5" title="Htlm5" height="25" src="https://img.shields.io/badge/Html-informational?style=flat-square&logo=html&color=003B57" />
-<img alt="CSS3" title="CSS3" height="25" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css&color=003B57" />
+<img alt="Html5" title="Htlm5" height="25" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" />
+<img alt="CSS3" title="CSS3" height="25" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" />
 <img height="25" src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&color=003B57" />
 <img height="25" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&color=003B57" />
 <img height="25" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=003B57" />
@@ -71,7 +71,7 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
-v2.1
+v2.2
 
 <!---
 - 👀 I’m interested in ...
