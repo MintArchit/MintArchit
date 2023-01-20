@@ -44,36 +44,8 @@
 </a></p>
 </span>
 
-## Repos I'm currently working on 
-
-### public
-- Firefox extensions:
-  - ff-themes (JSON, APNG)
-  - ff-theme-switcher (JS, JSON)
-  - mintarchit, github profile (HTML, MD)
-
-### private (local)
-- Blender Extension
-  - OpenCV ComputerVision, PoseEstimation (Python)
-- MintArchit.com (HTML, CSS, JS, Bootstrap, Threejs [Easter egg])
-- Keycat2 (Linux, Python, DB)
-- TicTacToe (Android, Java)
-- YT-Autocompile (Python, YT-API)
-- Jarvis AI (Python, STT & TTS)
-
-## Other stuff i do
-
-3D Animation/Artwork (Blender), Symbols/Icons (SVG, PNG, JPG), 3D Printing
-
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
-v2.10
+v2.11
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-MintArchit/MintArchit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
