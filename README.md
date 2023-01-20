@@ -47,5 +47,3 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 
 v2.11
-
---->
