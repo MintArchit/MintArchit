@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @MintArchit </h1>
+# 👋 Hi, I’m @MintArchit
 
 <span align="left">
 <a href="https://www.mintarchit.com">
@@ -14,7 +14,7 @@
 ## 💼 Technical Skills
 
 <span align="left">
-<p><h4>Languages</h4><a href="#">
+### Languages <p><a href="#">
 <img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" />
 <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" />
 <!-- <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&color=003B57" /> -->
