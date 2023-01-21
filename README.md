@@ -33,13 +33,12 @@
 <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=numpy&color=003B57" />
 <!-- <img src="https://img.shields.io/badge/Tkinter-informational?style=flat-square&logo=tkinter&color=003B57" /> -->
 <img src="https://img.shields.io/badge/Symfony-informational?style=flat-square&logo=symfony&color=003B57" />
-<img src="https://img.shields.io/badge/NodeJs-informational?style=flat-square&logo=nodedotjs&color=003B57" />
-</a></p><p><h4>DataBases & Cloud Hosting</h4><a href="#">
+</a></p><p><h4>Tools, DataBases & Cloud Hosting</h4><a href="#">
 <img src="https://img.shields.io/badge/FireBase-informational?style=flat-square&logo=firebase&color=003B57" />
 <img src="https://img.shields.io/badge/Netlify-informational?style=flat-square&logo=netlify&color=003B57" />
 <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&color=003B57" />
 <img src="https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite&color=003B57" />
-</a><p><h4>Tools</h4><a href="#">
+<img src="https://img.shields.io/badge/NodeJs-informational?style=flat-square&logo=nodedotjs&color=003B57" />
 <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&color=003B57" />
 </a></p>
 </span>
