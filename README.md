@@ -26,7 +26,7 @@ v2.11
 <img src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" /> </a>
 <!-- <img src="https://img.shields.io/badge/SQL-informational?style=flat-square&logo=sql&color=003B57" /> -->
 </a></p>
-<p><b>Libs</b> &nbsp;&nbsp;&nbsp; 
+<p><b>Libs</b> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />
 <img src="https://img.shields.io/badge/Material%20Design-informational?style=flat-square&logo=materialdesign&color=003B57" />
@@ -35,7 +35,7 @@ v2.11
 <!-- <img src="https://img.shields.io/badge/Tkinter-informational?style=flat-square&logo=tkinter&color=003B57" /> -->
 <img src="https://img.shields.io/badge/Symfony-informational?style=flat-square&logo=symfony&color=003B57" />
 </p>
-<p><b>Tools</b> &nbsp;
+<p><b>Tools</b> &nbsp;&nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/FireBase-informational?style=flat-square&logo=firebase&color=003B57" />
 <img src="https://img.shields.io/badge/Netlify-informational?style=flat-square&logo=netlify&color=003B57" />
