@@ -13,7 +13,8 @@
 
 <span align="left">
 <p><h4>Languages</h4>
-<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" />
+
+<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" /></a>
 <a href="#"><img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" />
 <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" />
 <!-- <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&color=003B57" /> -->
@@ -24,14 +25,18 @@
 <img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" />
 <img src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" /> </a>
 <!-- <img src="https://img.shields.io/badge/SQL-informational?style=flat-square&logo=sql&color=003B57" /> -->
-</a></p><p><h4>Frameworks & Libraries</h4><a href="#">
+</a></p><p><h4>Frameworks & Libraries</h4>
+
+<a href="#">
 <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />
 <img src="https://img.shields.io/badge/Material%20Design-informational?style=flat-square&logo=materialdesign&color=003B57" />
 <img src="https://img.shields.io/badge/ThreeJs-informational?style=flat-square&logo=threedotjs&color=003B57" />
 <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=numpy&color=003B57" />
 <!-- <img src="https://img.shields.io/badge/Tkinter-informational?style=flat-square&logo=tkinter&color=003B57" /> -->
 <img src="https://img.shields.io/badge/Symfony-informational?style=flat-square&logo=symfony&color=003B57" />
-</a></p><p><h4>Tools, DataBases & Cloud Hosting</h4><a href="#">
+</a></p><p><h4>Tools, DataBases & Cloud Hosting</h4>
+
+<a href="#">
 <img src="https://img.shields.io/badge/FireBase-informational?style=flat-square&logo=firebase&color=003B57" />
 <img src="https://img.shields.io/badge/Netlify-informational?style=flat-square&logo=netlify&color=003B57" />
 <img src="https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&color=003B57" />
