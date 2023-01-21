@@ -5,7 +5,7 @@
 	<a href="https://play.google.com/store/apps/details?id=appinventor.ai_mintarchit.AnalogWatch&hl=de"><img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </p>
 <p align="center">
-	View Repo by Lingo
+	<b>View Repo by Lingo</b>
 </p>
 <p align="center">
 	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img alt="Shell" title="Shell/Scripts" src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=272727" /></a>
