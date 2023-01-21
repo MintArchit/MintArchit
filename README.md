@@ -11,8 +11,6 @@
 <img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </span>
 
-## 💼 Technical Skills
-
 <span align="left">
 <p><h4>Languages</h4>
 <a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" />
