@@ -10,7 +10,9 @@
 <a href="https://play.google.com/store/apps/details?id=appinventor.ai_mintarchit.AnalogWatch&hl=de">
 <img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </span><span style="float:right;">
-v2.11 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
+v2.11 
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 </span></p>
 
 <h4>Languages</h4>
