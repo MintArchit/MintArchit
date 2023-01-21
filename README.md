@@ -33,7 +33,7 @@ v2.11
 <img src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" /> </a>
 <!-- <img src="https://img.shields.io/badge/SQL-informational?style=flat-square&logo=sql&color=003B57" /> -->
 </a></p>
-<p>Libs		 | 
+<p>Libs  | 
 <a href="#">
 <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />
 <img src="https://img.shields.io/badge/Material%20Design-informational?style=flat-square&logo=materialdesign&color=003B57" />
