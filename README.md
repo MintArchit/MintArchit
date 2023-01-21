@@ -20,7 +20,7 @@ v2.11
 
 
 
-<p>Lingo	| 
+<p>Lingo	 | 
 <a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" /></a>
 <a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=003B57" /></a>
 <a href="#"><img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" />
