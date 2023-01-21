@@ -39,5 +39,5 @@
 <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&color=003B57" />
 </a></p>
 
-%%[![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile) -->
 
