@@ -4,7 +4,9 @@
 	<a href="https://www.deviantart.com/mintarchit"><img alt="DeviantArt" title="DeviantArt" src="https://img.shields.io/badge/Deviant%20Art-black?style=for-the-badge&logo=deviantart&logoColor=05CC47" /></a>
 	<a href="https://play.google.com/store/apps/details?id=appinventor.ai_mintarchit.AnalogWatch&hl=de"><img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </p>
-
+<p align="center">
+	View Repo by Lingo
+</p>
 <p align="center">
 	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img alt="Shell" title="Shell/Scripts" src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=272727" /></a>
 	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort="><img alt="Python" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=003B57" /></a>
