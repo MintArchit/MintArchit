@@ -38,7 +38,7 @@ v2.11
 <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=numpy&color=003B57" />
 <!-- <img src="https://img.shields.io/badge/Tkinter-informational?style=flat-square&logo=tkinter&color=003B57" /> -->
 <img src="https://img.shields.io/badge/Symfony-informational?style=flat-square&logo=symfony&color=003B57" />
-/p><p><h4>Tools, DataBases & Cloud Hosting</h4>
+</p><p><h4>Tools, DataBases & Cloud Hosting</h4>
 
 <a href="#">
 <img src="https://img.shields.io/badge/FireBase-informational?style=flat-square&logo=firebase&color=003B57" />
