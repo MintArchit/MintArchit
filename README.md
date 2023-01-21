@@ -13,7 +13,7 @@ v2.11
 </span></p>
 
  
-| Lingo | <a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" /></a><a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort="> <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=003B57" /></a> |<br>
+| Lingo | <a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" /></a> <a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=003B57" /></a> |<br>
 | Libs  | <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" /><img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />                                                                                                                                                                         |
 
 
