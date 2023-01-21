@@ -14,7 +14,6 @@
 	<a href="#profile"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" /></a>
 	<a href="#profile"><img src="https://img.shields.io/badge/JS-informational?style=flat-square&logo=javascript&color=003B57" /></a>
 	<a href="#profile"><img src="https://img.shields.io/badge/Kotlin-informational?style=flat-square&logo=kotlin&color=003B57" /></a>
-	<a href="#profile"><img src="https://img.shields.io/badge/MD-informational?style=flat-square&logo=markdown&color=003B57" /></a>
 	<a href="#profile"><img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" /></a>
 	<a href="#profile"><img src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" /> </a>
 </p>
