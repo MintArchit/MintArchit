@@ -20,15 +20,17 @@
 <a href="#profile"><img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" /></a>
 <a href="#profile"><img src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" /> </a>
 </a></p>
+
+<!-- 
 <p><b>Libs</b> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&color=003B57" />
 <img src="https://img.shields.io/badge/Material%20Design-informational?style=flat-square&logo=materialdesign&color=003B57" />
 <img src="https://img.shields.io/badge/ThreeJs-informational?style=flat-square&logo=threedotjs&color=003B57" />
 <img src="https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=numpy&color=003B57" />
-<!-- <img src="https://img.shields.io/badge/Tkinter-informational?style=flat-square&logo=tkinter&color=003B57" /> -->
 <img src="https://img.shields.io/badge/Symfony-informational?style=flat-square&logo=symfony&color=003B57" />
 </p>
+
 <p><b>Tools</b> &nbsp;&nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/FireBase-informational?style=flat-square&logo=firebase&color=003B57" />
@@ -37,7 +39,8 @@
 <img src="https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=sqlite&color=003B57" />
 <img src="https://img.shields.io/badge/NodeJs-informational?style=flat-square&logo=nodedotjs&color=003B57" />
 <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=Git&color=003B57" />
-</a></p>
+</a></p> 
+-->
 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile) -->
 
