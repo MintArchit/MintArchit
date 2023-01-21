@@ -11,13 +11,10 @@
 <img alt="Google Play" title="Google Play" src="https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </span><span style="float:right;">
 v2.11 
-
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=MintArchit.MintArchit)](#profile)
 </span></p>
 
-<h4>Languages</h4>
-
-<p>
+<p>Languages
 <a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=003B57" /></a>
 <a href="#"><img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" />
 <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" />
