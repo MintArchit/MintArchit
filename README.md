@@ -8,7 +8,7 @@
 	<b>View Repo by Lingo</b>
 </p>
 <p align="center">
-	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img alt="Shell" title="Shell/Scripts" src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=222222" /></a>
+	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img alt="Shell" title="Shell/Scripts" src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=111111" /></a>
 	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort="><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=ffde57" /></a>
 	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=c&sort="><img alt="C" title="C" src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" /></a>
 	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=javascript&sort="><img alt="JS" title="JS" src="https://img.shields.io/badge/JS-informational?style=flat-square&logo=javascript&color=323330" /></a>
