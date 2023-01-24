@@ -8,14 +8,14 @@
 	<b>View Repo by Lingo</b>
 </p>
 <p align="center">
-	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img alt="Shell" title="Shell/Scripts" src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=555555" /></a>
+	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=shell&sort="><img alt="Shell" title="Shell/Scripts" src="https://img.shields.io/badge/Sh-informational?style=flat-square&logo=gnubash&color=333333" /></a>
 	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort="><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&color=ffde57" /></a>
-	<a href="#profile"><img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" /></a>
-	<a href="#profile"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" /></a>
-	<a href="#profile"><img src="https://img.shields.io/badge/JS-informational?style=flat-square&logo=javascript&color=003B57" /></a>
-	<a href="#profile"><img src="https://img.shields.io/badge/Kotlin-informational?style=flat-square&logo=kotlin&color=003B57" /></a>
-	<a href="#profile"><img src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" /></a>
-	<a href="#profile"><img src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" /> </a>
+	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=html&sort=><img alt="Html5" title="Htlm5" src="https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&color=003B57" /></a>
+<!--	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort=><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&color=003B57" /></a> -->
+	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=javascript&sort=><img alt="JS" title="JS" src="https://img.shields.io/badge/JS-informational?style=flat-square&logo=javascript&color=003B57" /></a>
+<!--	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=python&sort=><img alt="Kotlin" title="Kotlin" src="https://img.shields.io/badge/Kotlin-informational?style=flat-square&logo=kotlin&color=003B57" /></a> -->
+	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=c&sort=><img alt="C" title="C" src="https://img.shields.io/badge/C-informational?style=flat-square&logo=c&color=003B57" /></a>
+<!--	<a href="https://github.com/MintArchit?tab=repositories&q=&type=&language=php&sort=><img alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&color=003B57" /> </a> -->
 </p>
 
 <!-- 
